@@ -1,7 +1,7 @@
 # Nowi-Animations
 FE: Awakening Sprites in Godot Game Engine!
 
-Available Online at https://nowination.itch.io/nowi-animations
+Available Online at https://nowination.itch.io/nowi-animations and https://nowination.itch.io/nowi-animations-followers
 
 Controls:
 ```
