@@ -12,7 +12,7 @@ Action Animation: Space/Enter/Xinput Controller A or B
 Do nothing for 3 seconds: Start Idle Animation
 ```
 
-Unfortunately the Manakete Sprites don't have Idle or Action Animations :( (So they're just left walking instead)
+Unfortunately the Manakete Sprites don't have Idle or Action Animations :( (So they're just walking left instead)
 
 Made with Godot 3.5
 
