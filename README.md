@@ -1,6 +1,8 @@
 # Nowi-Animations
 FE: Awakening Sprites in Godot Game Engine!
 
+Available Online at https://nowination.itch.io/nowi-animations
+
 Controls:
 ```
 Move around: WASD/Arrow Keys/Xinput Controller L-Joystick
